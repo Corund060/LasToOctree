@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/corund/.dotnet/store/|arch|/|tfm|",
+      "/home/corund/.nuget/packages"
+    ]
+  }
+}

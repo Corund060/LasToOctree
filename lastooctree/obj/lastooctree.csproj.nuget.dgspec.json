@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/corund/NET/LasToOctree/lastooctree/lastooctree.csproj": {}
+  },
+  "projects": {
+    "/home/corund/NET/LasToOctree/LASfile/LASfile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/corund/NET/LasToOctree/LASfile/LASfile.csproj",
+        "projectName": "LASfile",
+        "projectPath": "/home/corund/NET/LasToOctree/LASfile/LASfile.csproj",
+        "packagesPath": "/home/corund/.nuget/packages/",
+        "outputPath": "/home/corund/NET/LasToOctree/LASfile/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/corund/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/corund/NET/LasToOctree/OcTree/OcTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/corund/NET/LasToOctree/OcTree/OcTree.csproj",
+        "projectName": "OcTree",
+        "projectPath": "/home/corund/NET/LasToOctree/OcTree/OcTree.csproj",
+        "packagesPath": "/home/corund/.nuget/packages/",
+        "outputPath": "/home/corund/NET/LasToOctree/OcTree/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/corund/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/corund/NET/LasToOctree/lastooctree/lastooctree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/corund/NET/LasToOctree/lastooctree/lastooctree.csproj",
+        "projectName": "lastooctree",
+        "projectPath": "/home/corund/NET/LasToOctree/lastooctree/lastooctree.csproj",
+        "packagesPath": "/home/corund/.nuget/packages/",
+        "outputPath": "/home/corund/NET/LasToOctree/lastooctree/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/corund/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/corund/NET/LasToOctree/LASfile/LASfile.csproj": {
+                "projectPath": "/home/corund/NET/LasToOctree/LASfile/LASfile.csproj"
+              },
+              "/home/corund/NET/LasToOctree/OcTree/OcTree.csproj": {
+                "projectPath": "/home/corund/NET/LasToOctree/OcTree/OcTree.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/home/corund/NET/LasToOctree/OcTree/bin/Debug/net5.0/OcTree.deps.json
+/home/corund/NET/LasToOctree/OcTree/bin/Debug/net5.0/OcTree.dll
+/home/corund/NET/LasToOctree/OcTree/bin/Debug/net5.0/ref/OcTree.dll
+/home/corund/NET/LasToOctree/OcTree/bin/Debug/net5.0/OcTree.pdb
+/home/corund/NET/LasToOctree/OcTree/obj/Debug/net5.0/OcTree.csprojAssemblyReference.cache
+/home/corund/NET/LasToOctree/OcTree/obj/Debug/net5.0/OcTree.GeneratedMSBuildEditorConfig.editorconfig
+/home/corund/NET/LasToOctree/OcTree/obj/Debug/net5.0/OcTree.AssemblyInfoInputs.cache
+/home/corund/NET/LasToOctree/OcTree/obj/Debug/net5.0/OcTree.AssemblyInfo.cs
+/home/corund/NET/LasToOctree/OcTree/obj/Debug/net5.0/OcTree.csproj.CoreCompileInputs.cache
+/home/corund/NET/LasToOctree/OcTree/obj/Debug/net5.0/OcTree.dll
+/home/corund/NET/LasToOctree/OcTree/obj/Debug/net5.0/ref/OcTree.dll
+/home/corund/NET/LasToOctree/OcTree/obj/Debug/net5.0/OcTree.pdb

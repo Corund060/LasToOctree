@@ -1,0 +1,12 @@
+/home/corund/NET/LasToOctree/LASfile/bin/Debug/net5.0/LASfile.deps.json
+/home/corund/NET/LasToOctree/LASfile/bin/Debug/net5.0/LASfile.dll
+/home/corund/NET/LasToOctree/LASfile/bin/Debug/net5.0/ref/LASfile.dll
+/home/corund/NET/LasToOctree/LASfile/bin/Debug/net5.0/LASfile.pdb
+/home/corund/NET/LasToOctree/LASfile/obj/Debug/net5.0/LASfile.csprojAssemblyReference.cache
+/home/corund/NET/LasToOctree/LASfile/obj/Debug/net5.0/LASfile.GeneratedMSBuildEditorConfig.editorconfig
+/home/corund/NET/LasToOctree/LASfile/obj/Debug/net5.0/LASfile.AssemblyInfoInputs.cache
+/home/corund/NET/LasToOctree/LASfile/obj/Debug/net5.0/LASfile.AssemblyInfo.cs
+/home/corund/NET/LasToOctree/LASfile/obj/Debug/net5.0/LASfile.csproj.CoreCompileInputs.cache
+/home/corund/NET/LasToOctree/LASfile/obj/Debug/net5.0/LASfile.dll
+/home/corund/NET/LasToOctree/LASfile/obj/Debug/net5.0/ref/LASfile.dll
+/home/corund/NET/LasToOctree/LASfile/obj/Debug/net5.0/LASfile.pdb
